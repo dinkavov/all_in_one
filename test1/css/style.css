@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    font-family: Sans;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: aliceblue;
+}
